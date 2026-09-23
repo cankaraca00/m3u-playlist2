@@ -78,3 +78,6 @@ http://38.99.146.181:7777/AzadiTV.m3u8
 
 #EXTINF:-1,trt-tv
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+#EXTINF:-1,TRT12
+https://tv-trt1.medya.trt.com.tr/master.m3u8
